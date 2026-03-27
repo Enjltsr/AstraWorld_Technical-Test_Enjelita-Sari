@@ -1,0 +1,101 @@
+id,customer_id,address,city,province,created_at
+1,16,Jalan No 86,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+2,89,Jalan No 69,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+3,35,Jalan No 6,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+4,23,Jalan No 35,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+5,76,Jalan No 75,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+6,44,Jalan No 43,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+7,24,Jalan No 3,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+8,67,Jalan No 38,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+9,15,Jalan No 56,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+10,38,Jalan No 34,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+11,65,Jalan No 12,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+12,36,Jalan No 84,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+13,18,Jalan No 62,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+14,44,Jalan No 6,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+15,89,Jalan No 60,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+16,3,Jalan No 91,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+17,61,Jalan No 18,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+18,71,Jalan No 99,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+19,74,Jalan No 65,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+20,55,Jalan No 39,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+21,11,Jalan No 84,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+22,15,Jalan No 82,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+23,68,Jalan No 62,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+24,100,Jalan No 38,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+25,44,Jalan No 30,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+26,58,Jalan No 34,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+27,36,Jalan No 30,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+28,99,Jalan No 66,Jakarta Pusat,Jawa Barat,2026-03-27 13:27:19.641091
+29,9,Jalan No 46,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+30,45,Jalan No 93,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+31,99,Jalan No 32,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+32,10,Jalan No 46,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+33,25,Jalan No 55,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+34,34,Jalan No 38,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+35,30,Jalan No 62,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+36,76,Jalan No 9,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+37,66,Jalan No 77,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+38,31,Jalan No 93,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+39,66,Jalan No 45,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+40,55,Jalan No 56,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+41,87,Jalan No 32,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+42,50,Jalan No 7,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+43,100,Jalan No 5,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+44,29,Jalan No 12,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+45,88,Jalan No 98,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+46,76,Jalan No 76,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+47,80,Jalan No 27,Jakarta Pusat,Jawa Barat,2026-03-27 13:27:19.641091
+48,79,Jalan No 36,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+49,23,Jalan No 1,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+50,58,Jalan No 74,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+51,94,Jalan No 81,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+52,10,Jalan No 24,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+53,32,Jalan No 43,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+54,1,Jalan No 66,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+55,72,Jalan No 66,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+56,93,Jalan No 76,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+57,2,Jalan No 22,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+58,14,Jalan No 2,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+59,55,Jalan No 77,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+60,11,Jalan No 30,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+61,22,Jalan No 95,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+62,39,Jalan No 48,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+63,57,Jalan No 83,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+64,72,Jalan No 78,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+65,35,Jalan No 54,Jakarta Pusat,Jawa Barat,2026-03-27 13:27:19.641091
+66,89,Jalan No 19,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+67,14,Jalan No 51,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+68,42,Jalan No 84,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+69,49,Jalan No 96,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+70,48,Jalan No 53,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+71,70,Jalan No 91,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+72,38,Jalan No 34,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+73,2,Jalan No 84,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+74,10,Jalan No 43,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+75,4,Jalan No 66,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+76,13,Jalan No 11,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+77,19,Jalan No 81,Jakarta Pusat,Jawa Barat,2026-03-27 13:27:19.641091
+78,27,Jalan No 12,Tangerang Selatan,Jawa Barat,2026-03-27 13:27:19.641091
+79,89,Jalan No 63,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+80,44,Jalan No 87,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+81,99,Jalan No 69,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+82,23,Jalan No 89,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+83,10,Jalan No 60,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+84,77,Jalan No 9,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+85,42,Jalan No 77,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+86,3,Jalan No 75,Bekasi,Jawa Barat,2026-03-27 13:27:19.641091
+87,13,Jalan No 56,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+88,36,Jalan No 7,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+89,23,Jalan No 38,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+90,59,Jalan No 40,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+91,36,Jalan No 86,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+92,70,Jalan No 95,Jakarta Utara,DKI Jakarta,2026-03-27 13:27:19.641091
+93,76,Jalan No 81,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+94,12,Jalan No 13,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+95,31,Jalan No 88,Bekasi,DKI Jakarta,2026-03-27 13:27:19.641091
+96,32,Jalan No 74,Tangerang Selatan,DKI Jakarta,2026-03-27 13:27:19.641091
+97,36,Jalan No 97,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
+98,47,Jalan No 83,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+99,49,Jalan No 58,Jakarta Utara,Jawa Barat,2026-03-27 13:27:19.641091
+100,82,Jalan No 77,Jakarta Pusat,DKI Jakarta,2026-03-27 13:27:19.641091
