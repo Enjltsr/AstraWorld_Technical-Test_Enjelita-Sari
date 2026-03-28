@@ -1,8 +1,8 @@
 # AstraWorld_Technical-Test_Enjelita-Sari
 
-# 🚀 Astra Tech Test — Data Engineering Project
+# Astra Tech Test — Data Engineering Project
 
-## 📌 Overview
+## Overview
 
 This project is built to solve a data engineering case involving daily data ingestion, data cleaning, and datamart creation.
 
@@ -10,11 +10,11 @@ The solution is designed using a simple yet scalable architecture that separates
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 The data pipeline is structured into three main layers:
 
-### 🔴 Raw Layer
+### Raw Layer
 
 Stores raw data ingested directly from source files without any transformation.
 
@@ -23,7 +23,7 @@ Stores raw data ingested directly from source files without any transformation.
 * `after_sales_raw`
 * `customer_addresses`
 
-### 🟡 Staging / Clean Layer
+### Staging / Clean Layer
 
 Handles data cleaning and transformation such as:
 
@@ -37,7 +37,7 @@ Tables:
 * `sales_clean`
 * `after_sales_clean`
 
-### 🔵 Datamart Layer
+### Datamart Layer
 
 Prepared for reporting and analysis:
 
@@ -46,7 +46,7 @@ Prepared for reporting and analysis:
 
 ---
 
-## 🔄 Data Pipeline Flow
+## Data Pipeline Flow
 
 ```text
 CSV Files → Python ETL (Docker) → MySQL (Raw)
@@ -56,7 +56,7 @@ CSV Files → Python ETL (Docker) → MySQL (Raw)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python (Pandas, SQLAlchemy)
 * MySQL
@@ -65,7 +65,7 @@ CSV Files → Python ETL (Docker) → MySQL (Raw)
 
 ---
 
-## 📥 Task 1 — Data Landing
+## Task 1 — Data Landing
 
 A Python-based ETL pipeline is implemented to ingest daily CSV files into MySQL.
 
@@ -79,7 +79,7 @@ Key features:
 
 ---
 
-## 🧹 Task 2 — Data Cleaning & Datamart
+## Task 2 — Data Cleaning & Datamart
 
 ### Data Cleaning
 
@@ -105,7 +105,7 @@ Two reports are generated:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 astra_techtest/
@@ -120,7 +120,7 @@ astra_techtest/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Start Docker
 
@@ -147,7 +147,7 @@ Execute SQL scripts in order:
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
 * Implements idempotent data pipeline using file archiving
 * Handles inconsistent data formats (e.g., multiple date formats)
@@ -156,7 +156,7 @@ Execute SQL scripts in order:
 
 ---
 
-## 🧩 Future Improvements
+## Future Improvements
 
 * Add orchestration tool (Airflow)
 * Automate SQL execution within pipeline
@@ -165,7 +165,7 @@ Execute SQL scripts in order:
 
 ---
 
-## 👤 Author
+## Author
 
 Developed as part of a technical test submission.
 
